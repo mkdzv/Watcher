@@ -1,6 +1,4 @@
 # Watcher
-File Monitoring Tool
-
 Watcher is a file monitoring tool that detects changes to your files in real time, helping you spot unauthorized modifications.
 
 ## Features
