@@ -10,7 +10,7 @@ Watcher can identify, new, deleted and modified changes such as text being writt
 Watcher checks your folder every few seconds and alerts you if files are added, changed, or removed.
 
 ## Installation
-Install the latest version of Python and download the Watcher folder.
+Install the latest version of Python and download the `Watcher` folder.
 
 ## Usage
 Run python `watcher.py` in your terminal. 
